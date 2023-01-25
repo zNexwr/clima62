@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, je suis clima62</h1>
-<h3 align="center">< Un développeur inconnu ></h3>
+<h1 align="center">Hi 👋, I'm zNexwr</h1>
+<h3 align="center">< A Forgotten Dev ></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clima62&label=Profile%20views&color=ff0000&style=flat" alt="clima62" /> </p>
 
