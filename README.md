@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Minecraft Server And NodeJs !**
 
-- 🌱 I’m currently learning **MySQL, Bash, Dart, PHP, JavaScript, HTML, CSS !**
+- 🌱 I’m currently learning **MySQL, Bash, Dart, PHP, JavaScript, HTML, CSS !, Symfony is a shitty Framework**
 
 - 💬 Ask me about **your project and work together**
 
